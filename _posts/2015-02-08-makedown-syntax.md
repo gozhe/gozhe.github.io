@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  makedown
-categories: makedown
+categories: jekyll
 tags:  makedown
 ---
 
